@@ -16,11 +16,31 @@ This document is divded by the following sections:
 
 <!-- /MarkdownTOC -->
 
-
 <a id="introduction"></a>
+
+## Planned stages
+
+1. Scraping
+2. ULMFit
+3. Serving
+
+
+
+### Scraping with Scrapy
+
+See example
+
+### ULMFit
+
+![img](https://s3-ap-south-1.amazonaws.com/av-blog-media/wp-content/uploads/2018/11/transfer_learning.jpg)
+
+### Serving
+
+
+
 ## Introduction
 
-When segmenting textual data
+Segmenting textdata
 
 <a id="source-code-availibility"></a>
 ### Source code availibility
@@ -44,4 +64,5 @@ T
 ### Example usecase
 
 <a id="appendix"></a>
+
 ## Appendix
